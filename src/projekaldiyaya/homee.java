@@ -106,7 +106,7 @@ public class homee extends javax.swing.JFrame {
         jPanel1.setBackground(new java.awt.Color(0, 0, 0));
 
         Labelmeninblack.setForeground(new java.awt.Color(255, 255, 255));
-        Labelmeninblack.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pictures/Men_in_Black_International_(Official_Film_Poster).png"))); // NOI18N
+        Labelmeninblack.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pict/Men_in_Black_International_(Official_Film_Poster).png"))); // NOI18N
         Labelmeninblack.setToolTipText("");
         Labelmeninblack.setVerticalAlignment(javax.swing.SwingConstants.TOP);
         Labelmeninblack.setBorder(javax.swing.BorderFactory.createEtchedBorder());
@@ -119,24 +119,24 @@ public class homee extends javax.swing.JFrame {
         jLabel4.setForeground(new java.awt.Color(255, 255, 255));
         jLabel4.setText("Birds of Prey");
 
-        Labelaladdin.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pictures/Aladdin_(Official_2019_Film_Poster).png"))); // NOI18N
+        Labelaladdin.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pict/Aladdin_(Official_2019_Film_Poster).png"))); // NOI18N
         Labelaladdin.setBorder(javax.swing.BorderFactory.createEtchedBorder());
 
         jLabel5.setFont(new java.awt.Font("Cambria Math", 1, 11)); // NOI18N
         jLabel5.setForeground(new java.awt.Color(255, 255, 255));
         jLabel5.setText("Aladdin");
 
-        Labelshazam.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pictures/Shazam!.png"))); // NOI18N
+        Labelshazam.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pict/Shazam!.png"))); // NOI18N
         Labelshazam.setBorder(javax.swing.BorderFactory.createEtchedBorder());
 
         jLabel8.setFont(new java.awt.Font("Cambria Math", 1, 11)); // NOI18N
         jLabel8.setForeground(new java.awt.Color(255, 255, 255));
         jLabel8.setText("Shazam!");
 
-        Labelbirdsofprey.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pictures/Birds of prey.png"))); // NOI18N
+        Labelbirdsofprey.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pict/Birds of prey.png"))); // NOI18N
         Labelbirdsofprey.setBorder(javax.swing.BorderFactory.createEtchedBorder());
 
-        Labelthenightcomesforus.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pictures/The nigth comes for us.png"))); // NOI18N
+        Labelthenightcomesforus.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pict/The nigth comes for us.png"))); // NOI18N
         Labelthenightcomesforus.setBorder(javax.swing.BorderFactory.createEtchedBorder());
 
         jLabel13.setFont(new java.awt.Font("Cambria Math", 1, 11)); // NOI18N
@@ -144,31 +144,31 @@ public class homee extends javax.swing.JFrame {
         jLabel13.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel13.setText("The Night");
 
-        Labelmoneyheistthephenomenon.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pictures/220px-Money_Heist-_The_Phenomenon_poster.png"))); // NOI18N
+        Labelmoneyheistthephenomenon.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pict/220px-Money_Heist-_The_Phenomenon_poster.png"))); // NOI18N
         Labelmoneyheistthephenomenon.setBorder(javax.swing.BorderFactory.createEtchedBorder());
 
         jLabel16.setFont(new java.awt.Font("Cambria Math", 1, 11)); // NOI18N
         jLabel16.setForeground(new java.awt.Color(255, 255, 255));
         jLabel16.setText("Money Heist");
 
-        Labelmilea.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pictures/220px-Suara_dari_Dilan.png"))); // NOI18N
+        Labelmilea.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pict/220px-Suara_dari_Dilan.png"))); // NOI18N
         Labelmilea.setBorder(javax.swing.BorderFactory.createEtchedBorder());
 
         jLabel1.setFont(new java.awt.Font("Cambria Math", 1, 11)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(255, 255, 255));
         jLabel1.setText("Milea");
 
-        jLabel10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pictures/Over_the_Moon_(2020).png"))); // NOI18N
+        jLabel10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pict/Over_the_Moon_(2020).png"))); // NOI18N
         jLabel10.setBorder(javax.swing.BorderFactory.createEtchedBorder());
 
         jLabel12.setFont(new java.awt.Font("Cambria Math", 1, 11)); // NOI18N
         jLabel12.setForeground(new java.awt.Color(255, 255, 255));
         jLabel12.setText("Over The Moon");
 
-        jLabel18.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pictures/220px-Sponge_Out_of_Water_teaser_poster.png"))); // NOI18N
+        jLabel18.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pict/220px-Sponge_Out_of_Water_teaser_poster.png"))); // NOI18N
         jLabel18.setBorder(javax.swing.BorderFactory.createEtchedBorder());
 
-        Labelsonictheheodog.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pictures/Sonic the hedgehog.png"))); // NOI18N
+        Labelsonictheheodog.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Pict/Sonic the hedgehog.png"))); // NOI18N
         Labelsonictheheodog.setText("jLabel21");
         Labelsonictheheodog.setBorder(javax.swing.BorderFactory.createEtchedBorder());
 
